@@ -1,0 +1,19 @@
+ligne 1 de base
+ligne 2 modifiée sur la branche à merger
+la ligne 14 est supprimé sur la branche à merger
+ligne 3 de base
+ligne 4 modifiée sur la branche courante
+la ligne 6 est supprimée  sur la branche courante
+ligne 5 de base
+ligne 7 de base
+<<<<<<< HEAD
+ligne 8 modifiée sur la branche courante
+=======
+ligne 8 modifiée sur la branche à merger
+>>>>>>> remote
+ligne 9 de base
+ligne 10 de base
+ligne 11 de base
+ligne 12 de base
+ligne 13 de base
+ligne 15 de base
